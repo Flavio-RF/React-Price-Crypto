@@ -1,0 +1,12 @@
+body {
+  background-color: #141414;
+  color: #fff;
+}
+
+tbody tr {
+  height: 4.5rem;
+}
+
+thead tr {
+  height: 3rem;
+}
