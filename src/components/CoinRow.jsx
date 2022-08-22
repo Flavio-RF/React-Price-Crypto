@@ -1,5 +1,4 @@
 function CoinRow({ coin, index }) {
-  //   console.log(coin);
   return (
     <tr className="align-middle" key={index}>
       <td>{index}</td>
